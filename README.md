@@ -1,7 +1,7 @@
 # JB-Hi-Fi Laptop Market Dashboard
 
-### Summary (Updated Daily)
-View the Dashboard: https://app.powerbi.com/view?r=eyJrIjoiOWM1YzhiOTYtYjUwMS00ZWY4LThjMTItMGViNjc2OTkxYzcwIiwidCI6Ijc4NGU5YWE4LWI4ZjQtNGFhOS1iMTgzLTE5ODExNjE5YjllZSJ9
+### Summary
+View the Dashboard (Updated Daily): https://app.powerbi.com/view?r=eyJrIjoiOWM1YzhiOTYtYjUwMS00ZWY4LThjMTItMGViNjc2OTkxYzcwIiwidCI6Ijc4NGU5YWE4LWI4ZjQtNGFhOS1iMTgzLTE5ODExNjE5YjllZSJ9
 
 **Markets don’t stand still and neither should the data**
 
