@@ -29,6 +29,12 @@ class PipelineTests(unittest.TestCase):
             keep_existing_values=False,
         )
 
+    def test_parser_documents_reclean_existing_after_rule_updates(self):
+        help_text = pipeline.build_parser().format_help()
+
+        self.assertIn("--reclean-existing", help_text)
+        self.assertIn("approved cleaning-rule updates", help_text)
+
 
 if __name__ == "__main__":
     unittest.main()
